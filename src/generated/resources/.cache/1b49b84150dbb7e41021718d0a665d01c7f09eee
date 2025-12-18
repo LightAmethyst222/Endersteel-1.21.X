@@ -1,0 +1,4 @@
+// 1.21.1	2025-12-18T13:54:02.9168261	Tags for minecraft:block mod id endersteel
+c3247e3439020f238ee7379f3056b188e04879f5 data/minecraft/tags/block/mineable/pickaxe.json
+84e718ec100ae6cbb3dd4f2fa5dd776eb6395742 data/minecraft/tags/block/needs_stone_tool.json
+eb392e168ee3ced2830bf177545010ec0c591c25 data/neoforge/tags/block/needs_netherite_tool.json

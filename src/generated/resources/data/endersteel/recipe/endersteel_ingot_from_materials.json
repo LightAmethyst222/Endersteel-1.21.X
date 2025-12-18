@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "endersteel:refined_enderscrap"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "S": {
+      "item": "endersteel:steel_ingot"
+    }
+  },
+  "pattern": [
+    "SES",
+    "ENE",
+    "SES"
+  ],
+  "result": {
+    "count": 1,
+    "id": "endersteel:endersteel_ingot"
+  }
+}
