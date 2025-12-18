@@ -1,0 +1,13 @@
+{
+  "creativetab.endersteel.endersteel_tab": "Endersteel",
+
+  "item.endersteel.endersteel_ingot": "Endersteel Ingot",
+  "item.endersteel.raw_enderscrap": "Raw Enderscrap",
+  "item.endersteel.refined_enderscrap": "Refined Enderscrap",
+
+  "block.endersteel.endersteel_block": "Block of Endersteel",
+  "block.endersteel.enderscrap_ore": "Enderscrap Ore",
+  "block.endersteel.steel_block": "Block of Steel",
+
+  "item.endersteel.steel_ingot": "Steel Ingot"
+}
