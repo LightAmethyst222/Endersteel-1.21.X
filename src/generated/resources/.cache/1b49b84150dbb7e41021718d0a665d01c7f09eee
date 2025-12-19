@@ -1,4 +1,14 @@
-// 1.21.1	2025-12-18T13:54:02.9168261	Tags for minecraft:block mod id endersteel
-c3247e3439020f238ee7379f3056b188e04879f5 data/minecraft/tags/block/mineable/pickaxe.json
-84e718ec100ae6cbb3dd4f2fa5dd776eb6395742 data/minecraft/tags/block/needs_stone_tool.json
+// 1.21.1	2025-12-19T13:41:13.5857354	Tags for minecraft:block mod id endersteel
+e387af429e7872364638eacb727eeea1999af95e data/endersteel/tags/block/incorrect_for_steel_tool.json
+28664f209d59643cd660ffecc4ec013d2b0ccf68 data/endersteel/tags/block/needs_endersteel_tool.json
+32b13946c4cd1f944b029659ccce5fcb2adad4ff data/endersteel/tags/block/needs_steel_tool.json
+28664f209d59643cd660ffecc4ec013d2b0ccf68 data/minecraft/tags/block/incorrect_for_diamond_tool.json
+28664f209d59643cd660ffecc4ec013d2b0ccf68 data/minecraft/tags/block/incorrect_for_gold_tool.json
+28664f209d59643cd660ffecc4ec013d2b0ccf68 data/minecraft/tags/block/incorrect_for_iron_tool.json
+28664f209d59643cd660ffecc4ec013d2b0ccf68 data/minecraft/tags/block/incorrect_for_stone_tool.json
+28664f209d59643cd660ffecc4ec013d2b0ccf68 data/minecraft/tags/block/incorrect_for_wooden_tool.json
+03c3236f0e09d693541a2e859c2f31f7649e8021 data/minecraft/tags/block/logs_that_burn.json
+47e87281ac049d8981bea282750c0b6aee316148 data/minecraft/tags/block/mineable/axe.json
+664cc7afe6b671513feee454662e27e3b3be12fa data/minecraft/tags/block/mineable/pickaxe.json
+d8c1f0bdf39aba4730712be0bd6e594934d4d4dc data/minecraft/tags/block/needs_stone_tool.json
 eb392e168ee3ced2830bf177545010ec0c591c25 data/neoforge/tags/block/needs_netherite_tool.json

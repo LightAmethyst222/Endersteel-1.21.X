@@ -1,6 +1,7 @@
 {
   "values": [
     "endersteel:steel_block",
+    "endersteel:raw_steel_block",
     "endersteel:enderscrap_ore",
     "endersteel:endersteel_block"
   ]

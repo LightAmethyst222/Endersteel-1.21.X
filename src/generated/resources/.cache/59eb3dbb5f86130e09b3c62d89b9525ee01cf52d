@@ -1,4 +1,12 @@
-// 1.21.1	2025-12-18T13:12:16.5309907	Loot Tables
+// 1.21.1	2025-12-19T13:41:13.5833754	Loot Tables
 38637cebd85a2b91b423e2dbc9879350f9e55371 data/endersteel/loot_table/blocks/enderscrap_ore.json
 5e9420fcd0afb1abd52aba0d368588e1d05efa9a data/endersteel/loot_table/blocks/endersteel_block.json
+11bda8e5bb1adb42fe661ac9ba99c6e04ce0f13d data/endersteel/loot_table/blocks/enderwood_leaves.json
+22f96f92ac7a6a425f7d084c29e316abbc9d7ae2 data/endersteel/loot_table/blocks/enderwood_log.json
+626f8e079ccba3f074a1a4fc9164f30d85a3f8a3 data/endersteel/loot_table/blocks/enderwood_planks.json
+690aba64b4c0614bd9b42ff51dbc767a29b69381 data/endersteel/loot_table/blocks/enderwood_sapling.json
+4936e73709f4bd90b802bd608429e6d9caca3243 data/endersteel/loot_table/blocks/enderwood_wood.json
+134e8aacc80b620f8bcf51014c549eedc4a3f97f data/endersteel/loot_table/blocks/raw_steel_block.json
 eca007a34d82c03acb27d5b065450b65726bc32b data/endersteel/loot_table/blocks/steel_block.json
+5a50cc898af9fe0dd15fbaa71a5b5a27a8da1ee0 data/endersteel/loot_table/blocks/stripped_enderwood_log.json
+4cd5e36db52d6060f1b0e440d72e92c910685910 data/endersteel/loot_table/blocks/stripped_enderwood_wood.json

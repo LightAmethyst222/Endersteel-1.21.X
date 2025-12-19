@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "endersteel:block/stripped_enderwood_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "endersteel:block/stripped_enderwood_log"
+    },
+    "axis=z": {
+      "model": "endersteel:block/stripped_enderwood_log_horizontal",
+      "x": 90
+    }
+  }
+}

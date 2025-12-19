@@ -3,17 +3,17 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "minecraft:iron_ingot"
+      "item": "minecraft:iron_block"
     },
     {
-      "item": "minecraft:iron_ingot"
+      "item": "minecraft:iron_block"
     },
     {
-      "item": "minecraft:coal"
+      "item": "minecraft:coal_block"
     }
   ],
   "result": {
     "count": 1,
-    "id": "endersteel:steel_ingot"
+    "id": "endersteel:raw_steel_block"
   }
 }

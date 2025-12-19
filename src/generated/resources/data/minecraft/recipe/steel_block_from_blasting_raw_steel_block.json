@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "cookingtime": 900,
+  "experience": 18.0,
+  "group": "steel",
+  "ingredient": {
+    "item": "endersteel:raw_steel_block"
+  },
+  "result": {
+    "count": 1,
+    "id": "endersteel:steel_block"
+  }
+}

@@ -5,9 +5,58 @@
   "item.endersteel.raw_enderscrap": "Raw Enderscrap",
   "item.endersteel.refined_enderscrap": "Refined Enderscrap",
 
+  "item.endersteel.endersteel_sword": "Endersteel Sword",
+  "item.endersteel.endersteel_pickaxe": "Endersteel Pickaxe",
+  "item.endersteel.endersteel_axe": "Endersteel Axe",
+  "item.endersteel.endersteel_shovel": "Endersteel Shovel",
+  "item.endersteel.endersteel_hoe": "Endersteel Hoe",
+
+  "item.endersteel.endersteel_helmet": "Endersteel Helmet",
+  "item.endersteel.endersteel_chestplate": "Endersteel Chestplate",
+  "item.endersteel.endersteel_leggings": "Endersteel Leggings",
+  "item.endersteel.endersteel_boots": "Endersteel Boots",
+
+  "item.endersteel.endersteel_upgrade_smithing_template": "Smithing Template",
+
   "block.endersteel.endersteel_block": "Block of Endersteel",
   "block.endersteel.enderscrap_ore": "Enderscrap Ore",
-  "block.endersteel.steel_block": "Block of Steel",
 
-  "item.endersteel.steel_ingot": "Steel Ingot"
+  "block.endersteel.enderwood_log": "Enderwood Log",
+  "block.endersteel.enderwood_wood": "Enderwood Wood",
+  "block.endersteel.stripped_enderwood_log": "Stripped Enderwood Log",
+  "block.endersteel.stripped_enderwood_wood": "Stripped Enderwood Wood",
+  "block.endersteel.enderwood_planks": "Enderwood Planks",
+  "block.endersteel.enderwood_leaves": "Enderwood Leaves",
+  "block.endersteel.enderwood_sapling": "Enderwood Sapling",
+
+  "item.endersteel.steel_ingot": "Steel Ingot",
+  "item.endersteel.raw_steel": "Raw Steel",
+
+  "item.endersteel.steel_sword": "Steel Sword",
+  "item.endersteel.steel_pickaxe": "Steel Pickaxe",
+  "item.endersteel.steel_axe": "Steel Axe",
+  "item.endersteel.steel_shovel": "Steel Shovel",
+  "item.endersteel.steel_hoe": "Steel Hoe",
+
+  "item.endersteel.steel_helmet": "Steel Helmet",
+  "item.endersteel.steel_chestplate": "Steel Chestplate",
+  "item.endersteel.steel_leggings": "Steel Leggings",
+  "item.endersteel.steel_boots": "Steel Boots",
+
+  "item.endersteel.steel_upgrade_smithing_template": "Smithing Template",
+
+  "block.endersteel.steel_block": "Block of Steel",
+  "block.endersteel.raw_steel_block": "Block of Raw Steel",
+
+  "tooltip.endersteel.endersteel_upgrade": "Endersteel Upgrade",
+  "tooltip.endersteel.endersteel_upgrade_applies_to_title": "Applies to:",
+  "tooltip.endersteel.endersteel_upgrade_applies_to": " Netherite Equipment",
+  "tooltip.endersteel.endersteel_upgrade_ingredients_title": "Ingredients:",
+  "tooltip.endersteel.endersteel_upgrade_ingredients": " Endersteel Ingot",
+
+  "tooltip.endersteel.steel_upgrade": "Steel Upgrade",
+  "tooltip.endersteel.steel_upgrade_applies_to_title": "Applies to:",
+  "tooltip.endersteel.steel_upgrade_applies_to": " Iron Equipment",
+  "tooltip.endersteel.steel_upgrade_ingredients_title": "Ingredients:",
+  "tooltip.endersteel.steel_upgrade_ingredients": " Steel Ingot"
 }

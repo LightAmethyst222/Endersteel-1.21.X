@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "endersteel:steel_ingot"
+  },
+  "base": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "result": {
+    "count": 1,
+    "id": "endersteel:steel_pickaxe"
+  },
+  "template": {
+    "item": "endersteel:steel_upgrade_smithing_template"
+  }
+}

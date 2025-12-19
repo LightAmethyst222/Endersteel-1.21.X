@@ -29,9 +29,21 @@ public class ModBlockLootTableProvider extends BlockLootSubProvider {
         //add blocks here \/
         dropSelf(ModBlocks.ENDERSTEEL_BLOCK.get());
         dropSelf(ModBlocks.STEEL_BLOCK.get());
+        dropSelf(ModBlocks.RAW_STEEL_BLOCK.get());
 
         add(ModBlocks.ENDERSCRAP_ORE.get(),
                 block -> createOreDrop(ModBlocks.ENDERSCRAP_ORE.get(), ModItems.RAW_ENDERSCRAP.get()));
+
+        this.dropSelf(ModBlocks.ENDERWOOD_LOG.get());
+        this.dropSelf(ModBlocks.ENDERWOOD_WOOD.get());
+        this.dropSelf(ModBlocks.STRIPPED_ENDERWOOD_LOG.get());
+        this.dropSelf(ModBlocks.STRIPPED_ENDERWOOD_WOOD.get());
+        this.dropSelf(ModBlocks.ENDERWOOD_PLANKS.get());
+        this.dropSelf(ModBlocks.ENDERWOOD_SAPLING.get());
+
+        this.add(ModBlocks.ENDERWOOD_LEAVES.get(), block ->
+                createLeavesDrops(block, ModBlocks.ENDERWOOD_SAPLING.get(), NORMAL_LEAVES_SAPLING_CHANCES));
+
     }
     protected LootTable.Builder createMultipleOreDrops(Block pBlock, Item item, float minDrops, float maxDrops) {
         HolderLookup.RegistryLookup<Enchantment> registrylookup = this.registries.lookupOrThrow(Registries.ENCHANTMENT);

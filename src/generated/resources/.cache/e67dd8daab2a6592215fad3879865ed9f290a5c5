@@ -1,1 +1,9 @@
-// 1.21.1	2025-12-17T23:34:53.4173721	Tags for minecraft:item mod id endersteel
+// 1.21.1	2025-12-19T13:41:13.5844259	Tags for minecraft:item mod id endersteel
+7a87c1bb32c03210837e8420949a44bb3b5450d2 data/minecraft/tags/item/axes.json
+c39d55867929e95bbf0cb49dfb7b8ea307dca80b data/minecraft/tags/item/hoes.json
+03c3236f0e09d693541a2e859c2f31f7649e8021 data/minecraft/tags/item/logs_that_burn.json
+f0b24ea406ba7638f4b9addbdc9fb68a58da399d data/minecraft/tags/item/pickaxes.json
+47e87281ac049d8981bea282750c0b6aee316148 data/minecraft/tags/item/planks.json
+58748848433389d1f83c6c55401875fb6a4da8e7 data/minecraft/tags/item/shovels.json
+c0f2b6e85f658bdfd573d5c099397f9ef4bcd08f data/minecraft/tags/item/swords.json
+9dacad49d97427913bb412789c9083bc969f662d data/minecraft/tags/item/trimmable_armor.json

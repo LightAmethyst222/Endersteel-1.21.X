@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "endersteel:steel_ingot"
+  },
+  "base": {
+    "item": "minecraft:iron_hoe"
+  },
+  "result": {
+    "count": 1,
+    "id": "endersteel:steel_hoe"
+  },
+  "template": {
+    "item": "endersteel:steel_upgrade_smithing_template"
+  }
+}

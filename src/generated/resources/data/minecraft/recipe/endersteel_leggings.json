@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "endersteel:endersteel_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_leggings"
+  },
+  "result": {
+    "count": 1,
+    "id": "endersteel:endersteel_leggings"
+  },
+  "template": {
+    "item": "endersteel:endersteel_upgrade_smithing_template"
+  }
+}

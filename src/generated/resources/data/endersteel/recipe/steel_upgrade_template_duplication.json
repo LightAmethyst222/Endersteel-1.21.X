@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "minecraft:cobblestone"
+    },
+    "T": {
+      "item": "endersteel:steel_upgrade_smithing_template"
+    }
+  },
+  "pattern": [
+    "DTD",
+    "DBD",
+    "DDD"
+  ],
+  "result": {
+    "count": 2,
+    "id": "endersteel:steel_upgrade_smithing_template"
+  }
+}
